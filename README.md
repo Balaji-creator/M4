@@ -10,8 +10,11 @@ To write a C Program to perform the basic left shift operation for 44 integer nu
 5.	Stop the program.
 
 ## PROGRAM
+![image](https://github.com/user-attachments/assets/9b7a7bec-a814-4697-9e1b-19ef568f9447)
+
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/437eeb33-723f-4605-a7d2-8e3e10dfb468)
 
 
 
@@ -47,9 +50,12 @@ Write a C Program to check whether the two numbers are equal or not using simple
 5.	Stop the program.
 
 ## PROGRAM
+![image](https://github.com/user-attachments/assets/eab3b8bf-5d85-41b8-bbea-57e673f4950a)
 
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/942d809a-4744-4f6c-b6b9-138a44ad4982)
+
            
 ## RESULT
 
@@ -70,8 +76,10 @@ Write a C Program to convert the given string into lowercase.
 5.	Stop the program.
 
 ## PROGRAM
+![image](https://github.com/user-attachments/assets/6ffeeb55-1d4a-429e-be74-78272b00760e)
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/b95d45b1-f637-41f4-8f74-1173fcf49e4d)
 
 
 
@@ -95,8 +103,10 @@ Write a C Program to count the total number of words in a given string using do 
 6.	Stop the program.
 
 ## PROGRAM
+![image](https://github.com/user-attachments/assets/88b61f3e-28ff-495e-9c93-6831679e0024)
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/30055439-1cba-4585-9a3d-7402a0464026)
 
 
 
@@ -129,10 +139,12 @@ Step 7: After the loop, check the value of flag:
 Step 8: End the program.
 
 ## PROGRAM
+![image](https://github.com/user-attachments/assets/74a9f4c9-b329-4c72-bb7f-09eb34630c2e)
 
 
 ## OUTPUT
- 
+ ![image](https://github.com/user-attachments/assets/b00ddb3d-4824-4fd3-9828-1009deddc5f6)
+
 
 ## RESULT
 Thus the C Program to compare two strings without using strcmp() has been executed successfully.
